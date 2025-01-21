@@ -1,6 +1,6 @@
-# Doubly Robust Learning with Adaptive Learning Rates for Debiasing Post-Click Conversion Rate Estimation Under Sparse Data
+# Batch-Adaptive Doubly Robust Learning for Debiasing Post-Click Conversion Rate Prediction Under Sparse Data
 ## Introduction
-This is the implementation of our work titled ''Doubly Robust Learning with Adaptive Learning Rates for Debiasing Post-Click Conversion Rate Estimation Under Sparse Data''.
+This is the implementation of our work titled ''Batch-Adaptive Doubly Robust Learning for Debiasing Post-Click Conversion Rate Prediction Under Sparse Data''.
 ## Environment
 We provide the environment that our code depends on in ./requirements.txt. To install the environment, run
 ```bash
